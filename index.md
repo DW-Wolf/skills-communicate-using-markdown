@@ -6,3 +6,6 @@
 ``` c#
 string var = string.Forrmat("hello");
 ```
+- [x] List syntax is required
+- [ ] This item is complete
+- [x] This item is not complete
